@@ -1,5 +1,5 @@
 function randomText() {
-  var text = "qwertyuiopasdfghjklzxcvbnm+-*/!@#$%^&(),.:;0123456789";
+  var text = "lovethảovy";
   letter = text[Math.floor(Math.random() * text.length)];
   return letter;
 }
