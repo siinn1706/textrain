@@ -1,5 +1,5 @@
 function randomText() {
-  var text = "lovethảovy";
+  var text = "love";
   letter = text[Math.floor(Math.random() * text.length)];
   return letter;
 }
